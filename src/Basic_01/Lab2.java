@@ -1,3 +1,5 @@
+package Basic_01;
+
 public class Lab2
 {
         //Main Method -> Execution Starts from Main Method.

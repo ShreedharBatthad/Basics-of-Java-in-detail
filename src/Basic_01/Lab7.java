@@ -1,9 +1,11 @@
+package Basic_01;
+
 public class Lab7
 {
     public static void main(String[] args)
     {
         boolean powerison = true;
-        int voltage = 240;
+        int voltage = 310;
 
 
         if(powerison)
@@ -28,7 +30,7 @@ public class Lab7
             }
         }
     else{
-            System.out.println("Washing machine is off");
+            System.out.println("There is no Power, please check your plug or setup to start the Washing machine");
         }
     }
 }
