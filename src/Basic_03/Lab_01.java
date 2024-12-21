@@ -1,0 +1,16 @@
+package Basic_03;
+
+public class Lab_01
+{
+    public static void main(String[] args)
+    {
+        //final : Final keyword is used to not change the variable.
+
+        float a = 3.15f;
+        final double d = 99999.99;
+        //d =1000.5;
+        System.out.println("number is "+ a );
+        System.out.println("number is "+ d );
+    }
+
+}
