@@ -1,3 +1,5 @@
+package Basic_03;
+
 import java.util.Scanner;
 
 public class Lab_23

@@ -1,3 +1,5 @@
+package IterativeStatements;
+
 import java.util.Scanner;
 
 public class Lab_32
@@ -14,6 +16,9 @@ public class Lab_32
         System.out.println("Enter the Z");
         double z = sc.nextDouble();
 
+        double result = 0;
 
+        result = Math.cbrt(Math.pow(x,2))+ Math.pow(y,2)-Math.abs(z);
+        System.out.println(result);
     }
 }
