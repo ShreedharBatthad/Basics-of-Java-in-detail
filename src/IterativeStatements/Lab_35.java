@@ -8,6 +8,9 @@ public class Lab_35
         while (i<3)
         {
             System.out.println("Infinite Loop");
+            ++i;// value will increase by 1.
+
+
         }
     }
 }
