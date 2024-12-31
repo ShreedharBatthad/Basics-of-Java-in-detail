@@ -11,8 +11,8 @@ public class Lab_68
         a[1] = 50;
         a[2] = 55;
        // a[3] = 65;   // INDEXOUTOFBOUNDSEXCEPTION, Because Array size is exceeded.
-        System.out.println(a.length); // Total length of the array.
-        System.out.println(a[0]);     // Value of a[0] or Accessing the Value.
+        System.out.println( "The size of the array is: "+a.length); // Total length of the array.
+        System.out.println("Value: "+a[0]);     // Value of a[0] or Accessing the Value.
 
     }
 }
