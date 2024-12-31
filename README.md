@@ -1,9 +1,9 @@
 
 # Array
 
--> Array is a data type that represents a collection of elements, each selected by one or more indices.
+-> Array is a data type representing a collection of elements selected by one or more indices.
 
--> Array indicies always starts from '0', means first element index is "0".
+-> Array indices always start from '0', which means the first element index is "0".
 
 -> If the size of an array is 'n' then the last element of the array will be at index n-1.
 
@@ -11,13 +11,13 @@
 
 * String [] array = new String[];  
          
-## 1) How to declare Array?
+## 1) How to declare an Array?
 
 * datatype data;
      
      -Example: String data;
 
-## 2) How to allocate Memory?
+## 2) How do we allocate memory?
 
 * String data = new String[10];
 
@@ -25,10 +25,10 @@
    
    1) Allcoated the Total size or length of the array.
 
-## 3) How to declare and intialize the arrays in java?
+## 3) How to declare and initialize the arrays in Java?
 
 There are two ways:-
-* Method 1: String data = {"animal","pets","birds"};
+* Method 1: String data = {"animal", "pets", "birds"};
 
 * Method 2: String data = new String[3];
             data[0] = "animal";
@@ -55,4 +55,4 @@ for(String a: birds)
  
   {
 
-    Sys
+    System.out.println(a);
