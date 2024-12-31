@@ -1,5 +1,5 @@
 package BArrayPrograms_07;
-public class Bubblesort_Lab_71
+public class Bubblesort_Lab_1
 {
     public static void main(String[] args)
     {
