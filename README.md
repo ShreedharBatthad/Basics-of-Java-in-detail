@@ -12,7 +12,7 @@
 2) Two Dimensional Array.
 3) Three Dimensional Array.
 
-## Syntax
+## Syntax of Single Dimensional Array:
 
 * String [] array = new String[];  
          
