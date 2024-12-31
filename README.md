@@ -7,6 +7,11 @@
 
 -> If the size of an array is 'n' then the last element of the array will be at index n-1.
 
+## There are three types of arrays.
+1) Single Dimensional Array.
+2) Two Dimensional Array.
+3) Three Dimensional Array.
+
 ## Syntax
 
 * String [] array = new String[];  
