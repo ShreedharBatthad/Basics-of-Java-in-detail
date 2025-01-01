@@ -111,4 +111,4 @@ A String is a variable that contains a collection of characters surrounded by do
             Example: String s = new String("Happy New Year");
   - Object is created in 2 areas that is "Heap Year" and "String Constant Pool" Area.
 
-  The first object is reference is done by the user is "Heap Area" and another is by JVM, which is "String Constant pool.
+  - The first object is reference is done by the user is "Heap Area" and another is by JVM, which is "String Constant pool.
