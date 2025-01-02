@@ -7,7 +7,7 @@ public class ConstructorExample_87
     String Course ;
 
 
-    ConstructorExample_87(int i , String c) //Parameterised Constructor.
+    ConstructorExample_87(int i , String c) //Parameterised Constructor.// Constructor Does not have return type.
     {
         this.days=  i;   // this keyword refers to the Child Class.
         this.Course = c;
