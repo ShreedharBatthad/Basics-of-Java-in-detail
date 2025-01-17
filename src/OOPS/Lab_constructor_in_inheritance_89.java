@@ -1,13 +1,13 @@
 package OOPS;
 
-public class constructor_in_inheritance
+public class Lab_constructor_in_inheritance_89
 {
     //variables
     int count;
     String apple;
 
     // Parameterized Constructor
-    public constructor_in_inheritance(int count, String apple)
+    public Lab_constructor_in_inheritance_89(int count, String apple)
     {
         //this keyword refers to current class.
         this.apple = apple;
@@ -17,7 +17,7 @@ public class constructor_in_inheritance
     public static void main(String[] args)
     {
         //object creation of the class
-       constructor_in_inheritance con = new constructor_in_inheritance(2, "Orange");
+       Lab_constructor_in_inheritance_89 con = new Lab_constructor_in_inheritance_89(2, "Orange");
         System.out.println(con.apple);
         System.out.println(con.count);
 

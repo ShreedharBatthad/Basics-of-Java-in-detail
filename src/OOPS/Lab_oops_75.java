@@ -1,6 +1,6 @@
 package OOPS;
 
-public class oops_Lab_75
+public class Lab_oops_75
 {
     //called method.
     public void eat()
@@ -11,7 +11,7 @@ public class oops_Lab_75
     {
         //calling method
          System.out.println("method calling");
-         oops_Lab_75 pupy =  new oops_Lab_75();
+         Lab_oops_75 pupy =  new Lab_oops_75();
          pupy.eat();
          System.out.println("come out of the main");
     }

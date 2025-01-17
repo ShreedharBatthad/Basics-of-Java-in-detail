@@ -1,6 +1,6 @@
 package OOPS;
 
-public class Oops_Lab_77
+public class Lab_Oops_77
     {
     //called method.
     public void eat()
@@ -11,7 +11,7 @@ public class Oops_Lab_77
     public static void main(String[] args)
     {
         //calling method
-        Oops_Lab_77 dog = new Oops_Lab_77();
+        Lab_Oops_77 dog = new Lab_Oops_77();
         dog.eat();
       //  b.fly(); // we can object within the class BUT NOT OUTSIDE THE CLASS.System.out.println("come out of the main");
     }

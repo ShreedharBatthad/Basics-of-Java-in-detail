@@ -1,6 +1,6 @@
 package OOPS;
-import java.util.logging.SocketHandler;
-public class Oops_Lab_76
+
+public class Lab_Oops_76
 {
 
     public void eat()
@@ -15,7 +15,7 @@ public class Oops_Lab_76
     public static void main(String[] args)
       {
       //Object creation
-      Oops_Lab_76  Dog = new Oops_Lab_76();
+      Lab_Oops_76 Dog = new Lab_Oops_76();
       //object method calling.
       Dog.eat();
       Dog.run();
