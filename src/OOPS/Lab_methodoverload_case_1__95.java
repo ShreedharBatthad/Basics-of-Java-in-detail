@@ -18,7 +18,7 @@ public class Lab_methodoverload_case_1__95
     public static void main(String[] args)
     {
         Lab_methodoverload_case_1__95 load = new Lab_methodoverload_case_1__95();
-        load.show(10);
+        load.show(10); //we calling integer this time.
 
     }
 
