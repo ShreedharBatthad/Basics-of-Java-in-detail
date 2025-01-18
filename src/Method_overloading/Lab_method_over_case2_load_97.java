@@ -1,4 +1,4 @@
-package OOPS;
+package Method_overloading;
 
 public class Lab_method_over_case2_load_97
 {

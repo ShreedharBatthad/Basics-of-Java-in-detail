@@ -1,4 +1,4 @@
-package OOPS;
+package Constructor;
 
 public class Lab_cons_inh_meth_91
 {

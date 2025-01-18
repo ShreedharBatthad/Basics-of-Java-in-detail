@@ -1,4 +1,4 @@
-package OOPS;
+package Constructor;
 
 public class Lab_90_constructor_in_method
 {

@@ -1,4 +1,4 @@
-package OOPS;
+package Method_overloading;
 
 public class Lab_method_over_case4_98
 {
@@ -7,7 +7,7 @@ public class Lab_method_over_case4_98
         System.out.println("int float");
     }
 
-    void show(String b, int a)
+    void show(int b, String a)
     {
         System.out.println("string int");
     }
@@ -17,7 +17,7 @@ public class Lab_method_over_case4_98
        Lab_method_over_case4_98 ld = new Lab_method_over_case4_98();
       // error ld.show(10.0f, 10.5f);
         ld.show(2, 10.58858f);
-        ld.show("abc", 2);
+        ld.show(2,"hjk");
 
     }
 }
